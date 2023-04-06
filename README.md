@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **siekunda1995@gmail.com**
 
-- 📓 CakeResume:([https://www.cakeresume.com/09_])
+- 📓 CakeResume:https://www.cakeresume.com/09_
 
 Here are some ideas to get you started:
 
