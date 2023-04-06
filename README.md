@@ -1,18 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kun Da Sie <br><br> <img src="https://komarev.com/ghpvc/?username=Kun0818&style=for-the-badge"> </h1>
 
-- 💻 [My Website](https://wei-docusaurus-vercel.vercel.app)
+- 💻 [My Website](https://kun0818.github.io/My-Docusaurus/)
 
-- 🎥 [My Youtube Channel](https://www.youtube.com/channel/UCy1Q33r6POsxGTtZcOF--Fw)
-
-- 🔭 I’m currently working on [my website](https://wei-docusaurus-vercel.vercel.app)
+- 🔭 I’m currently working on [my website](https://kun0818.github.io/My-Docusaurus/)
 
 - 🌱 I’m currently learning **web technology**
 
-- 📝 I regularly write articles on [my website](https://wei-docusaurus-vercel.vercel.app/docs/intro) and [medium post](https://medium.com/@weiyun0912)
+- 📫 How to reach me **siekunda1995@gmail.com**
 
-- 📫 How to reach me **yher25@gmail.com**
-
-- 📓 CakeResume：https://www.cakeresume.com/wei-wei-e8a62e
+- 📓 CakeResume：(https://www.cakeresume.com/s--DUDDKA_OGu9Tby376otUSw--/09_)
 
 Here are some ideas to get you started:
 
